@@ -4,7 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191bf0e5-2514-43b7-9cf7-a88ea1e123da" name="Changes" comment="경로 변경 완료 및 필요사항 저장" />
+    <list default="true" id="191bf0e5-2514-43b7-9cf7-a88ea1e123da" name="Changes" comment="경로 변경 완료 및 필요사항 저장">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -108,7 +111,23 @@
       <workItem from="1645374469754" duration="548000" />
       <workItem from="1645375059430" duration="601000" />
       <workItem from="1645386903232" duration="3458000" />
+      <workItem from="1645391511498" duration="1511000" />
     </task>
+    <task id="LOCAL-00001" summary="경로 변경 완료 및 필요사항 저장">
+      <created>1645391776188</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1645391776188</updated>
+    </task>
+    <task id="LOCAL-00002" summary="경로 변경 완료 및 필요사항 저장">
+      <created>1645391840823</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1645391840823</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
