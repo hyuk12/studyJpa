@@ -4,17 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="191bf0e5-2514-43b7-9cf7-a88ea1e123da" name="Changes" comment="경로 변경 완료 및 필요사항 저장">
-      <change afterPath="$PROJECT_DIR$/jpashop/src/main/java/jpabook/jpashop/repository/MemberRepository.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpashop/src/main/java/jpabook/jpashop/service/MemberService.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpashop/src/test/java/jpabook/jpashop/service/MemberServiceTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpashop/src/test/resources/application.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpashop/src/test/resources/static/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/jpashop/src/test/resources/templates/hello.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="191bf0e5-2514-43b7-9cf7-a88ea1e123da" name="Changes" comment="회원 레포지토리 생성 &#10;회원 서비스 생성&#10;회원 기능 테스트 코드" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -155,7 +145,7 @@
       <workItem from="1645375059430" duration="601000" />
       <workItem from="1645386903232" duration="3458000" />
       <workItem from="1645391511498" duration="1511000" />
-      <workItem from="1645423836330" duration="4787000" />
+      <workItem from="1645423836330" duration="5203000" />
     </task>
     <task id="LOCAL-00001" summary="경로 변경 완료 및 필요사항 저장">
       <created>1645391776188</created>
@@ -171,7 +161,14 @@
       <option name="project" value="LOCAL" />
       <updated>1645391840823</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="회원 레포지토리 생성 &#10;회원 서비스 생성&#10;회원 기능 테스트 코드">
+      <created>1645429766078</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1645429766079</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -190,6 +187,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="경로 변경 완료 및 필요사항 저장" />
-    <option name="LAST_COMMIT_MESSAGE" value="경로 변경 완료 및 필요사항 저장" />
+    <MESSAGE value="회원 레포지토리 생성 &#10;회원 서비스 생성&#10;회원 기능 테스트 코드" />
+    <option name="LAST_COMMIT_MESSAGE" value="회원 레포지토리 생성 &#10;회원 서비스 생성&#10;회원 기능 테스트 코드" />
   </component>
 </project>
